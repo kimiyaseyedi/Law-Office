@@ -59,7 +59,8 @@ header {
       transform: translatex(50%);
       height: inherit;
       margin-top: 7px;
-
+      position: fixed;
+      cursor: pointer;
       > img {
         width: 90%;
         height: 80%;
